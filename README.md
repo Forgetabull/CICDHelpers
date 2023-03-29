@@ -10,4 +10,5 @@ Scripts that I use with Jenkins and other CICD related things.
 |FileSplit.sh|Splits the path from the filename|
 |FindIPFromMac.sh|Finds the IP allocated to a MAC address|
 |git_ChangeLog.sh|Generates a HTML git log page|
+|linuxUpdate.sh|Linux Update script that attempts to repair and then update|
 |touchWebsite.sh|Uses curl to keep probing a website until it returns a non-500 status.|
