@@ -20,3 +20,10 @@ sudo apt-get install azure-cli
 sudo apt-get install jq
 
 echo "Done.
+
+
+#cat /etc/passwd | grep jenkins
+#sudo su - jenkins-runner -s /bin/bash
+#az login
+
+
